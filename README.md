@@ -1,4 +1,4 @@
-Playcard Games
+Go Cards
 ========
 
 ```go
